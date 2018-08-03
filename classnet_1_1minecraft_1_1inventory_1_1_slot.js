@@ -1,0 +1,25 @@
+var classnet_1_1minecraft_1_1inventory_1_1_slot =
+[
+    [ "Slot", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a6f07941c6ad03f7598e9160b6da36419", null ],
+    [ "canBeHovered", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a4d591a230a7b7e3ae6af355bbd5eadea", null ],
+    [ "canTakeStack", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#ac496ee2bce65a6a6d87b42576783026e", null ],
+    [ "decrStackSize", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a7dbcf9d923feab9a299fcef18daf0904", null ],
+    [ "func_190900_b", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a71048a8b6ceec8f0d715428f80c0eaa8", null ],
+    [ "func_190901_a", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#afea45b1ee86b87b2262d1469fef3e313", null ],
+    [ "getHasStack", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#ad2f7556eb2b1fa373c058a259fbbc40b", null ],
+    [ "getItemStackLimit", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a12b086e3ad09a15391053a0666cd9202", null ],
+    [ "getSlotStackLimit", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a79e3f09ce633f9d6318b6282b680afa0", null ],
+    [ "getSlotTexture", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a95d3bd40ed6579543d50a4c9f728c26f", null ],
+    [ "getStack", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a5b98eaeab12aae83ad712f219024cea7", null ],
+    [ "isHere", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#afed641d73b4ce13a0201b4da2d7bcb9a", null ],
+    [ "isItemValid", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#aee4e8c617430c63817ad84c10db28ab7", null ],
+    [ "onCrafting", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a5b04e549ca5bc96a2e88b28373fb034b", null ],
+    [ "onCrafting", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a7a8853b150003b95d8383a0aaab3c58d", null ],
+    [ "onSlotChange", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a2f6a80a35de21b207f31f4e7a44ff41a", null ],
+    [ "onSlotChanged", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#acd07341c1688f60366dc8ac163d5a26e", null ],
+    [ "putStack", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a180a67eb34d5d7bad14fac7ad0194463", null ],
+    [ "inventory", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a2c0a3e8eb35169fae01a2dc82a8e4cde", null ],
+    [ "slotNumber", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a9af3364eb5e006e8a2b9bdcfb816be17", null ],
+    [ "xDisplayPosition", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#af608d94572383249baa8868f18e8df3e", null ],
+    [ "yDisplayPosition", "classnet_1_1minecraft_1_1inventory_1_1_slot.html#a74840e7d689204d22f64a90dacf13008", null ]
+];

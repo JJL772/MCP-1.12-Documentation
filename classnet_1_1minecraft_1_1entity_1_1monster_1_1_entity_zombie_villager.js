@@ -1,0 +1,25 @@
+var classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager =
+[
+    [ "EntityZombieVillager", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#afa54cc072e44de357d1a7a358cb9a1b7", null ],
+    [ "canDespawn", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#a43fe182358ebe4e2aa9e14bf2314e72e", null ],
+    [ "entityInit", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#ab9ba79f7bd9ead54868280879f5c62c3", null ],
+    [ "func_190731_di", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#a881ef8875489cd6c70572b4c9dabd6df", null ],
+    [ "func_190732_dj", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#acad99cafd5a073164c8211aab22746c2", null ],
+    [ "func_190733_a", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#ae9d412691c6cf2f534631bc209c28e5c", null ],
+    [ "func_190735_dq", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#a156f917b2620657ba393bb51bd21fdcb", null ],
+    [ "func_190736_dl", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#aa961fb58ea29bf0345472b87837fb535", null ],
+    [ "func_190738_dp", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#a97fceb3e7169170f995748b0b2fddce5", null ],
+    [ "func_191991_a", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#ac2832e3d67dbfd9ead96a93e680a1d0e", null ],
+    [ "getAmbientSound", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#ac342c6838ba45f349747d309431882ab", null ],
+    [ "getDeathSound", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#a4bcefbfa5dd6292c80e65537ad1069c5", null ],
+    [ "getHurtSound", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#a6ce262c1d51df95a3404545f80815712", null ],
+    [ "getLootTable", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#a611cafade3f15aa6ff12d6fa92f858ac", null ],
+    [ "getSoundPitch", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#a4408cc1afcfa2ba58e2b3da60db47991", null ],
+    [ "handleStatusUpdate", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#af679288b80cef29a5181f294d62ae0fa", null ],
+    [ "isConverting", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#a7a00dfba462f2674184da4efcbca3e4c", null ],
+    [ "onInitialSpawn", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#a84a4c66f67d193b5814a7326723462e9", null ],
+    [ "onUpdate", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#a1bb1dbe138ef9c9b4580a18050f2cdec", null ],
+    [ "processInteract", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#a61d293110298e203d61e57eb428fa0cf", null ],
+    [ "readEntityFromNBT", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#adc347a2411d3394c2346e5cd33615b60", null ],
+    [ "writeEntityToNBT", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_zombie_villager.html#aa28f130da412de67e38288bbf4c40621", null ]
+];

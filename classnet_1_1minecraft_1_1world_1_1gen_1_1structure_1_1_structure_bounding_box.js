@@ -1,0 +1,26 @@
+var classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box =
+[
+    [ "StructureBoundingBox", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a6a520857e7555f76ca2ccefb101f88af", null ],
+    [ "StructureBoundingBox", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#aaa1b0b95dcf8e1900206fbc30dbea6bc", null ],
+    [ "StructureBoundingBox", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a330895e74a18d58b633f3b9811b73d6f", null ],
+    [ "StructureBoundingBox", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a81c45611c9f149ca27279540dfb95d2f", null ],
+    [ "StructureBoundingBox", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a25c62382eb5cc54527b3f274f003cb20", null ],
+    [ "StructureBoundingBox", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#ae98a3410244d087a8fdcb764fa91ac4b", null ],
+    [ "expandTo", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a94b74b8035091d10b2ca8a5803a4edf8", null ],
+    [ "getLength", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a5987327e8750947142a17144067a0f3f", null ],
+    [ "getXSize", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#acf7ab4c651b26053e81b57ce88223ea6", null ],
+    [ "getYSize", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a833a2e1b2a3fff5c053e06cbc9bdac6c", null ],
+    [ "getZSize", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#ab7115fe5184530e68a0a065265e8ba85", null ],
+    [ "intersectsWith", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a67724c0a9aaa21dbec0891b5e96892c2", null ],
+    [ "intersectsWith", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#adfaa49eb28761dc5e273aa7cfdac2bfc", null ],
+    [ "isVecInside", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a0c112a3d606895d8f01c77ef886454c9", null ],
+    [ "offset", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a2c660e3544f71accec6a56cd983a302e", null ],
+    [ "toNBTTagIntArray", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a4163d3f2441287e5489432994f9f82d9", null ],
+    [ "toString", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a760dd63a94e093ead691ea4b8f1ac8eb", null ],
+    [ "maxX", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#aa9292ce22f068c50eaa86144416643b2", null ],
+    [ "maxY", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#af9c7f4446ec2d0431729a3a35e9a9e58", null ],
+    [ "maxZ", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a99522b1a5894dacd42433bb96f24d980", null ],
+    [ "minX", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a3ec599cef24e14f5f99e19310e2e84d0", null ],
+    [ "minY", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#a8fb823377f802abe2cff9cb1ecad253f", null ],
+    [ "minZ", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html#aed061ea529abf8830a32a8975572faf9", null ]
+];

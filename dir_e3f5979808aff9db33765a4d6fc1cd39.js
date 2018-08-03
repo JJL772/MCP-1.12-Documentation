@@ -1,0 +1,28 @@
+var dir_e3f5979808aff9db33765a4d6fc1cd39 =
+[
+    [ "advancements", "dir_d6641c77b1a0ee96aa4722626cca0a15.html", "dir_d6641c77b1a0ee96aa4722626cca0a15" ],
+    [ "block", "dir_9f7d8453ee9fb1d47a9c477d4241a9da.html", "dir_9f7d8453ee9fb1d47a9c477d4241a9da" ],
+    [ "client", "dir_9ad0e1e0bc793f7316c28138d1c7c996.html", "dir_9ad0e1e0bc793f7316c28138d1c7c996" ],
+    [ "command", "dir_718b739625f20a8280bcc328cebdab6b.html", "dir_718b739625f20a8280bcc328cebdab6b" ],
+    [ "crash", "dir_bca2bb9b53c4bcf63caadb2a2e6577fb.html", "dir_bca2bb9b53c4bcf63caadb2a2e6577fb" ],
+    [ "creativetab", "dir_c29e0078ca98b354e1269e731dc264fd.html", "dir_c29e0078ca98b354e1269e731dc264fd" ],
+    [ "dispenser", "dir_236dc86a8fc7d749852c7501866dc570.html", "dir_236dc86a8fc7d749852c7501866dc570" ],
+    [ "enchantment", "dir_7339f2aafd7ea1947ce84281928d09b9.html", "dir_7339f2aafd7ea1947ce84281928d09b9" ],
+    [ "entity", "dir_3d8e4e44adf625cdc1bab7ac0a475331.html", "dir_3d8e4e44adf625cdc1bab7ac0a475331" ],
+    [ "init", "dir_10770d9aaa1e51aaef7cd6dc5efc346e.html", "dir_10770d9aaa1e51aaef7cd6dc5efc346e" ],
+    [ "inventory", "dir_4f182760d13b72a42de042c1d9e91ce9.html", "dir_4f182760d13b72a42de042c1d9e91ce9" ],
+    [ "item", "dir_f000dbef1df9fdd1f718c04917896c5f.html", "dir_f000dbef1df9fdd1f718c04917896c5f" ],
+    [ "nbt", "dir_52a93800d38f319b6a2e51b96b7be73a.html", "dir_52a93800d38f319b6a2e51b96b7be73a" ],
+    [ "network", "dir_9ad9b78202c7b3004228fbc0c10b14ff.html", "dir_9ad9b78202c7b3004228fbc0c10b14ff" ],
+    [ "pathfinding", "dir_d9c187b66cc12d0b9bb09d37e943a0dd.html", "dir_d9c187b66cc12d0b9bb09d37e943a0dd" ],
+    [ "potion", "dir_6d527a52b9db441cc75d859eedbd2e20.html", "dir_6d527a52b9db441cc75d859eedbd2e20" ],
+    [ "profiler", "dir_3e4b1b21a685902fa3d4ef9aef019fac.html", "dir_3e4b1b21a685902fa3d4ef9aef019fac" ],
+    [ "realms", "dir_62beea271a3ca364adc5289522835fbe.html", "dir_62beea271a3ca364adc5289522835fbe" ],
+    [ "scoreboard", "dir_6c07c1e8aae4e898aa9067944920c5c1.html", "dir_6c07c1e8aae4e898aa9067944920c5c1" ],
+    [ "server", "dir_09b9678126409f3f3932013efa306af2.html", "dir_09b9678126409f3f3932013efa306af2" ],
+    [ "stats", "dir_d2719bb6f7a417462c92b6dd438a5ee3.html", "dir_d2719bb6f7a417462c92b6dd438a5ee3" ],
+    [ "tileentity", "dir_11b47589a2562b5cfee952e889497e5d.html", "dir_11b47589a2562b5cfee952e889497e5d" ],
+    [ "util", "dir_7a06ab51fccd795d62ebb4e905b16a61.html", "dir_7a06ab51fccd795d62ebb4e905b16a61" ],
+    [ "village", "dir_77d99aa539698364d792edb194e8d008.html", "dir_77d99aa539698364d792edb194e8d008" ],
+    [ "world", "dir_0a5fd40a242a830d08b6260ec7316843.html", "dir_0a5fd40a242a830d08b6260ec7316843" ]
+];

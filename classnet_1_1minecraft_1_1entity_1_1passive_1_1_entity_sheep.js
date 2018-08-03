@@ -1,0 +1,28 @@
+var classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep =
+[
+    [ "EntitySheep", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#aae3fb5117339ce61eb8bf9202e0f968a", null ],
+    [ "applyEntityAttributes", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#ad1fe99099484cf8d195bcdf65de10f5d", null ],
+    [ "createChild", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#ac7ab0f465ac9036d834d79cb936168bd", null ],
+    [ "eatGrassBonus", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a6456096829c1873fac3514603d54d7cf", null ],
+    [ "entityInit", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#ac3fb6a81ab04cf10c7466648eaa5f0d2", null ],
+    [ "getAmbientSound", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a230ab75af8724821e4336197b0e6fdca", null ],
+    [ "getDeathSound", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a824b5ceb8b4cf0551fde746b1d10de4e", null ],
+    [ "getEyeHeight", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a0fcb5e3d7c2beeaabb2405d172636647", null ],
+    [ "getFleeceColor", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a206f12e0de00df3eec31d8dd5ac813fd", null ],
+    [ "getHeadRotationAngleX", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a85f7c871c506b025de64276622ed3c40", null ],
+    [ "getHeadRotationPointY", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a65626d5bb50deb9595da6e3786034b45", null ],
+    [ "getHurtSound", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#af9556456c1ebe20291ba8486ba4a1f96", null ],
+    [ "getLootTable", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a1a66447abfc3d69e51106c1ce864fa03", null ],
+    [ "getSheared", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a485b05c3d352e636d169f94c71ce004d", null ],
+    [ "handleStatusUpdate", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a5599e3c2b6211ad8d6adb841ee830293", null ],
+    [ "initEntityAI", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a54df9544bf3358c001cf3c3207f74821", null ],
+    [ "onInitialSpawn", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#ab4a97a75d31066096abe554cc699ba73", null ],
+    [ "onLivingUpdate", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#ae416a6e1730c3f4c847b41b2c65f7bd6", null ],
+    [ "playStepSound", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#ae2a0769dc3468cfbd6600e63d04297f3", null ],
+    [ "processInteract", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#aa28509381b48d5826a33bac1e244252b", null ],
+    [ "readEntityFromNBT", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#ac65160f486bafdb5c48dfcb954e4422d", null ],
+    [ "setFleeceColor", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a824772465f6f77e74ac9b5755c54fa60", null ],
+    [ "setSheared", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a6f520ce9da6ed5f423c57572d79743c5", null ],
+    [ "updateAITasks", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a2ea28c54ca0b6dcb2502d44a334afcc2", null ],
+    [ "writeEntityToNBT", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_sheep.html#a79358f0404dbdcd29345efefd2c872ae", null ]
+];

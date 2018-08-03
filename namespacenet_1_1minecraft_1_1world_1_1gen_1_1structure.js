@@ -1,0 +1,28 @@
+var namespacenet_1_1minecraft_1_1world_1_1gen_1_1structure =
+[
+    [ "template", "namespacenet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1template.html", "namespacenet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1template" ],
+    [ "ComponentScatteredFeaturePieces", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_component_scattered_feature_pieces.html", null ],
+    [ "MapGenEndCity", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_end_city.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_end_city" ],
+    [ "MapGenMineshaft", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_mineshaft.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_mineshaft" ],
+    [ "MapGenNetherBridge", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_nether_bridge.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_nether_bridge" ],
+    [ "MapGenScatteredFeature", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_scattered_feature.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_scattered_feature" ],
+    [ "MapGenStronghold", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_stronghold.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_stronghold" ],
+    [ "MapGenStructure", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_structure.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_structure" ],
+    [ "MapGenStructureData", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_structure_data.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_structure_data" ],
+    [ "MapGenStructureIO", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_structure_i_o.html", null ],
+    [ "MapGenVillage", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_village.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_map_gen_village" ],
+    [ "StructureBoundingBox", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_bounding_box" ],
+    [ "StructureComponent", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_component.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_component" ],
+    [ "StructureComponentTemplate", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_component_template.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_component_template" ],
+    [ "StructureEndCityPieces", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_end_city_pieces.html", null ],
+    [ "StructureMineshaftPieces", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_mineshaft_pieces.html", null ],
+    [ "StructureMineshaftStart", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_mineshaft_start.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_mineshaft_start" ],
+    [ "StructureNetherBridgePieces", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_nether_bridge_pieces.html", null ],
+    [ "StructureOceanMonument", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_ocean_monument.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_ocean_monument" ],
+    [ "StructureOceanMonumentPieces", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_ocean_monument_pieces.html", null ],
+    [ "StructureStart", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_start.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_start" ],
+    [ "StructureStrongholdPieces", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_stronghold_pieces.html", null ],
+    [ "StructureVillagePieces", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_structure_village_pieces.html", null ],
+    [ "WoodlandMansion", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_woodland_mansion.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_woodland_mansion" ],
+    [ "WoodlandMansionPieces", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1_woodland_mansion_pieces.html", null ]
+];

@@ -1,0 +1,26 @@
+var classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex =
+[
+    [ "EntityVex", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#ae0b424a12ce1ed85bf31f8f7cafcd9a2", null ],
+    [ "applyEntityAttributes", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#add6696aefa5cda51e947b2fd6bd61937", null ],
+    [ "entityInit", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a439374698db9b325b5cc97ca64d8f136", null ],
+    [ "func_190645_o", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a2d584a43c724b4b5c8a12ea78e7716bf", null ],
+    [ "func_190646_di", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a3c580d80fb9f9e3450513e9d1a79f816", null ],
+    [ "func_190647_dj", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a75809f4f77f7bd69897b41cffc8742fd", null ],
+    [ "func_190648_a", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#aeb66dac7c14875c0e31c3ce8e2dc5b87", null ],
+    [ "func_190651_g", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a6bd58f01405e0dee4c530e1988cbc46a", null ],
+    [ "func_190653_a", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a3fbff69e5bcad18d10e3c8943f198fbe", null ],
+    [ "func_190658_a", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a9f1dee613c10909e6f25db91a0888752", null ],
+    [ "getAmbientSound", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a7989d75359b3959caf00097036525d8e", null ],
+    [ "getBrightness", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a22ca3e997527722e4b5f2099e05b2225", null ],
+    [ "getBrightnessForRender", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a3607c1cf3ebdbf16caa2dcb061db7ead", null ],
+    [ "getDeathSound", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#ab02ad1abca8736fda77d2ddd3acce051", null ],
+    [ "getHurtSound", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a3666774fdaaee94bd3310cad0b0c214b", null ],
+    [ "getLootTable", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a798b2e1a76e1c1292ac7fb2bb44c4f91", null ],
+    [ "initEntityAI", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a623d07639df3c2083f715c5fd3753333", null ],
+    [ "moveEntity", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#abdb874fc9df63ed3f9705e521e2dfdbc", null ],
+    [ "onInitialSpawn", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#af9a463dde1416979c69e7a1fa21d82d4", null ],
+    [ "onUpdate", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#ae0938b987c8dc670002dc02798df8d7a", null ],
+    [ "readEntityFromNBT", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a3254fed3e8552d2cc8964cc9ad6ccbf6", null ],
+    [ "setEquipmentBasedOnDifficulty", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a3d972b7d205811a9b1852fbd77316205", null ],
+    [ "writeEntityToNBT", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_vex.html#a49587d8a102db6bc899d910e14412b83", null ]
+];

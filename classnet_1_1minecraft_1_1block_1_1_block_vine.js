@@ -1,0 +1,25 @@
+var classnet_1_1minecraft_1_1block_1_1_block_vine =
+[
+    [ "BlockVine", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#a4ed057addebf292f4affba170042670b", null ],
+    [ "canPlaceBlockOnSide", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#a94ab1ca0e365ca4f4d3ba3005400b33b", null ],
+    [ "createBlockState", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#a5f046c2f8b6a2a0a8d460df009aab7c1", null ],
+    [ "func_193383_a", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#a40ae02c35d63d4a8588cae5656b8b502", null ],
+    [ "func_193395_a", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#a2f24e347a152d48da9e195488a9001a8", null ],
+    [ "getActualState", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#ab6b7db2fe271bdfdf588439efd37894f", null ],
+    [ "getBlockLayer", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#afbddd4682a910a0a65ffe2edf1e204cf", null ],
+    [ "getBoundingBox", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#ad84b6e5659d3d1c28b80e9decce48031", null ],
+    [ "getCollisionBoundingBox", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#aec5f63adf28fbee77f75023bafefa4c6", null ],
+    [ "getItemDropped", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#ab0d9b47a436700e305f01498a055311d", null ],
+    [ "getMetaFromState", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#a9dbd34c761f384c0e890cf1b0383ee0d", null ],
+    [ "getStateFromMeta", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#a2018445818c7a3dd365807eae67e7bd0", null ],
+    [ "harvestBlock", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#a99a1beae7668e10ba1042a18dca958ec", null ],
+    [ "isFullCube", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#a80c6b6110d29720d6efff66a74deda4a", null ],
+    [ "isOpaqueCube", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#aedff214a853c60257ad2519df21e3ac2", null ],
+    [ "isReplaceable", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#ab794a2f4e1c1e22768390a0030d08cc0", null ],
+    [ "neighborChanged", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#ab6322a57a73344af1e8d334a847a596a", null ],
+    [ "onBlockPlaced", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#a37e93899358d1aba5e957c917afc34c6", null ],
+    [ "quantityDropped", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#afd6391177a6fa447131fe9be734a3763", null ],
+    [ "updateTick", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#acb4a27123b8c45435aa54b8ef48c9032", null ],
+    [ "withMirror", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#a2f717f5e186f4536f20eeb2dda69dad4", null ],
+    [ "withRotation", "classnet_1_1minecraft_1_1block_1_1_block_vine.html#ac26801b556ffb523a138d51c055416f5", null ]
+];

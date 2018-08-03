@@ -1,0 +1,27 @@
+var classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem =
+[
+    [ "EntityIronGolem", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#aaca6568f736d9613df37e7c9524ca3ab", null ],
+    [ "applyEntityAttributes", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a7156a78c3d5767ec4184161a8f43058d", null ],
+    [ "attackEntityAsMob", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a96aadfdd6dfad9cf573ec66e2f4ecae0", null ],
+    [ "canAttackClass", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a72f2cee02ab751af9bfcf8d31a05054c", null ],
+    [ "collideWithEntity", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#aa234bcfd1ef2c72ae23eabd835b1b82c", null ],
+    [ "decreaseAirSupply", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a80f4ad201a50492380fbd7f16a750afd", null ],
+    [ "entityInit", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a6c553764dbbc91f30cfd0c8780f4bc26", null ],
+    [ "getAttackTimer", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a5ee7beb586d55a840d1222921738dd54", null ],
+    [ "getDeathSound", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a841ea690b3d92b0780e43c17920f9860", null ],
+    [ "getHoldRoseTick", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#ad9a8bbbc62d76c8004f43e4cec4505bf", null ],
+    [ "getHurtSound", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a1f2e91d71bfb9ce39e553f7f529b7c97", null ],
+    [ "getLootTable", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a366579485ba0fab1fd670f2d80a9b09d", null ],
+    [ "getVillage", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a7372c2cd4e1b41dfe87cba72873d47f6", null ],
+    [ "handleStatusUpdate", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a321e5a5e7c9df5889c641a1f39067086", null ],
+    [ "initEntityAI", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#acb7536adec291f567c472be2eea1221b", null ],
+    [ "isPlayerCreated", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a873e3e734ece101ac1aaf3a436276d33", null ],
+    [ "onDeath", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a99dcedc50f73a91ecad791dc24b6e5fe", null ],
+    [ "onLivingUpdate", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a48776cf48fc607261d952cb155f9e502", null ],
+    [ "playStepSound", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a0280e9bb6624f5333e7bad5c36cf4aed", null ],
+    [ "readEntityFromNBT", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a7f23c11312f0ca9582f26667200558d2", null ],
+    [ "setHoldingRose", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a69b9488c8d1a1f3e8d33aadc14df5f33", null ],
+    [ "setPlayerCreated", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#a7e90410a842706cbb1e6c8cbf6193e17", null ],
+    [ "updateAITasks", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#ab64fed4aeff6b6d7291dd32ea9632bbf", null ],
+    [ "writeEntityToNBT", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_iron_golem.html#af8a7c996058f876e8128c05c249cbdc9", null ]
+];

@@ -1,0 +1,25 @@
+var namespacenet_1_1minecraft_1_1world_1_1gen =
+[
+    [ "feature", "namespacenet_1_1minecraft_1_1world_1_1gen_1_1feature.html", "namespacenet_1_1minecraft_1_1world_1_1gen_1_1feature" ],
+    [ "layer", "namespacenet_1_1minecraft_1_1world_1_1gen_1_1layer.html", "namespacenet_1_1minecraft_1_1world_1_1gen_1_1layer" ],
+    [ "structure", "namespacenet_1_1minecraft_1_1world_1_1gen_1_1structure.html", "namespacenet_1_1minecraft_1_1world_1_1gen_1_1structure" ],
+    [ "ChunkGeneratorDebug", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_generator_debug.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_generator_debug" ],
+    [ "ChunkGeneratorEnd", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_generator_end.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_generator_end" ],
+    [ "ChunkGeneratorFlat", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_generator_flat.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_generator_flat" ],
+    [ "ChunkGeneratorHell", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_generator_hell.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_generator_hell" ],
+    [ "ChunkGeneratorOverworld", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_generator_overworld.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_generator_overworld" ],
+    [ "ChunkGeneratorSettings", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_generator_settings.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_generator_settings" ],
+    [ "ChunkProviderServer", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_provider_server.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_chunk_provider_server" ],
+    [ "FlatGeneratorInfo", "classnet_1_1minecraft_1_1world_1_1gen_1_1_flat_generator_info.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_flat_generator_info" ],
+    [ "FlatLayerInfo", "classnet_1_1minecraft_1_1world_1_1gen_1_1_flat_layer_info.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_flat_layer_info" ],
+    [ "IChunkGenerator", "interfacenet_1_1minecraft_1_1world_1_1gen_1_1_i_chunk_generator.html", "interfacenet_1_1minecraft_1_1world_1_1gen_1_1_i_chunk_generator" ],
+    [ "MapGenBase", "classnet_1_1minecraft_1_1world_1_1gen_1_1_map_gen_base.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_map_gen_base" ],
+    [ "MapGenCaves", "classnet_1_1minecraft_1_1world_1_1gen_1_1_map_gen_caves.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_map_gen_caves" ],
+    [ "MapGenCavesHell", "classnet_1_1minecraft_1_1world_1_1gen_1_1_map_gen_caves_hell.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_map_gen_caves_hell" ],
+    [ "MapGenRavine", "classnet_1_1minecraft_1_1world_1_1gen_1_1_map_gen_ravine.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_map_gen_ravine" ],
+    [ "NoiseGenerator", "classnet_1_1minecraft_1_1world_1_1gen_1_1_noise_generator.html", null ],
+    [ "NoiseGeneratorImproved", "classnet_1_1minecraft_1_1world_1_1gen_1_1_noise_generator_improved.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_noise_generator_improved" ],
+    [ "NoiseGeneratorOctaves", "classnet_1_1minecraft_1_1world_1_1gen_1_1_noise_generator_octaves.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_noise_generator_octaves" ],
+    [ "NoiseGeneratorPerlin", "classnet_1_1minecraft_1_1world_1_1gen_1_1_noise_generator_perlin.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_noise_generator_perlin" ],
+    [ "NoiseGeneratorSimplex", "classnet_1_1minecraft_1_1world_1_1gen_1_1_noise_generator_simplex.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1_noise_generator_simplex" ]
+];

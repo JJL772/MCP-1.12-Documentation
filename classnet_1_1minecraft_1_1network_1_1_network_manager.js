@@ -1,0 +1,25 @@
+var classnet_1_1minecraft_1_1network_1_1_network_manager =
+[
+    [ "NetworkManager", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#aac87bfd27d11ea9e73c32fb210584ef4", null ],
+    [ "channelActive", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#ab4b52dfc897bdaf92ea4ade5d50a8284", null ],
+    [ "channelInactive", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#ab1cbb4a4967b17dd33ddbc6e7b18be96", null ],
+    [ "channelRead0", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#adac7bce74caedc1a7ce0a9ff28cc0210", null ],
+    [ "checkDisconnected", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#a9ec6d12fbdb1de49d05579a96b086287", null ],
+    [ "closeChannel", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#aa25fb6df7927698e9cbe0fe8bf110457", null ],
+    [ "disableAutoRead", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#ac849441e92017c89c6643220c1965934", null ],
+    [ "enableEncryption", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#af7ef9fcdede9f0691640a19b450cd146", null ],
+    [ "exceptionCaught", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#a9f2d65ae808d798aaf356245a47a2e10", null ],
+    [ "getExitMessage", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#a81a7109c0a3a08c5e5f9eac260dec10a", null ],
+    [ "getNetHandler", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#a9d87f5b595c6dc3a242488e6941034ca", null ],
+    [ "getRemoteAddress", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#a4962e93eca0a6176d4ac0e6145ae9289", null ],
+    [ "hasNoChannel", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#aac8597c5f5998cae492cc2d5b68abfd3", null ],
+    [ "isChannelOpen", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#aeb1299da10cc8d24b99e6972cfc7a3c9", null ],
+    [ "isEncrypted", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#a7f21f58af62cb8fc0e59cad2a2b7c197", null ],
+    [ "isLocalChannel", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#a9c11467eb244a0ca354e67423bd58a75", null ],
+    [ "processReceivedPackets", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#a00e5679c6fd1769c97b03b8eb55fc62a", null ],
+    [ "sendPacket", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#a7554e548aeb47b934f979b772e491467", null ],
+    [ "sendPacket", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#a9e25efb49a03ae65d3b0ed48134089a6", null ],
+    [ "setCompressionThreshold", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#afc5c0fd90e15febaf78ac47adcd4dfdd", null ],
+    [ "setConnectionState", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#a7cd48993c98f581d07d3051cc87b936a", null ],
+    [ "setNetHandler", "classnet_1_1minecraft_1_1network_1_1_network_manager.html#ac6818abdff44a84d2a7955b703442341", null ]
+];

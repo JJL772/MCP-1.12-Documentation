@@ -1,0 +1,5 @@
+var namespacenet_1_1minecraft_1_1client_1_1player_1_1inventory =
+[
+    [ "ContainerLocalMenu", "classnet_1_1minecraft_1_1client_1_1player_1_1inventory_1_1_container_local_menu.html", "classnet_1_1minecraft_1_1client_1_1player_1_1inventory_1_1_container_local_menu" ],
+    [ "LocalBlockIntercommunication", "classnet_1_1minecraft_1_1client_1_1player_1_1inventory_1_1_local_block_intercommunication.html", "classnet_1_1minecraft_1_1client_1_1player_1_1inventory_1_1_local_block_intercommunication" ]
+];

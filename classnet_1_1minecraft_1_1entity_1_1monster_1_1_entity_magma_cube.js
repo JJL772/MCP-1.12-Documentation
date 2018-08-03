@@ -1,0 +1,25 @@
+var classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube =
+[
+    [ "EntityMagmaCube", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#a5e6fbed5f19f0dbf766d80eb24adb378", null ],
+    [ "alterSquishAmount", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#a7984aa9ec9180de4b9fe96f6a326d1cf", null ],
+    [ "applyEntityAttributes", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#a69cc7b1faa075d978ebcaeec7a2d0302", null ],
+    [ "canDamagePlayer", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#a19befe3d1dcc73ac41d72a36829fa98e", null ],
+    [ "createInstance", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#aa09c4003abad4778f54aea4d2e991117", null ],
+    [ "fall", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#afde61955bdc5a238c73951774d448b9a", null ],
+    [ "getAttackStrength", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#a2c1a63cd5f936030218bbef80a54c101", null ],
+    [ "getBrightness", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#aae973f95efd70a22556aa4a3e2bc8ba2", null ],
+    [ "getBrightnessForRender", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#acd2cfd0943d14834f51f8986a3efa6f0", null ],
+    [ "getCanSpawnHere", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#a79f7cc0ef99df70e6f2aba1d4d93ad28", null ],
+    [ "getDeathSound", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#a0543a892effb55b503534daaeee75c95", null ],
+    [ "getHurtSound", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#ad4a344651b6d7b04fc72afa06d929eea", null ],
+    [ "getJumpDelay", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#afe1e653a681be9776b74f5963cff6b82", null ],
+    [ "getJumpSound", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#a1c8c9c1d3b596a5b97302973b0a175fe", null ],
+    [ "getLootTable", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#ab628984ee92bf496f373893149ed726b", null ],
+    [ "getParticleType", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#a717e130c4a1b5a40a0f377d4a54a7032", null ],
+    [ "getSquishSound", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#a67509017b94d6265ad7b0167fa1438b5", null ],
+    [ "handleJumpLava", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#abaad394477da6b3f6273782f85b2e9de", null ],
+    [ "isBurning", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#aa1d58fc09c66d69fde5db735865acb6d", null ],
+    [ "isNotColliding", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#a1456705f9aa34cdd6d8fd04934584bfa", null ],
+    [ "jump", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#ac2eeedcfb752eb1bcdea57e13ec6f634", null ],
+    [ "setSlimeSize", "classnet_1_1minecraft_1_1entity_1_1monster_1_1_entity_magma_cube.html#a1a58fb090acd19cb1a17cca11387a19e", null ]
+];

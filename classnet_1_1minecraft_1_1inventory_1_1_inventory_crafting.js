@@ -1,0 +1,27 @@
+var classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting =
+[
+    [ "InventoryCrafting", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a5f05c9fe0cdf726ff60338a49cd15faa", null ],
+    [ "clear", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a9cd0ccf4a39ba863b403dde09c754714", null ],
+    [ "closeInventory", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a2b79e17b4105d89e239a83d31e561119", null ],
+    [ "decrStackSize", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#ac718eb97c4027b3420b9cf2eb3b4ead4", null ],
+    [ "func_191420_l", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a830406d7b8450b040c00c7fd444d6413", null ],
+    [ "func_194018_a", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#ad80bbd1800012d6850b65795583709dc", null ],
+    [ "getDisplayName", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a47a718a41dac5edb9b058e4748514b8c", null ],
+    [ "getField", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#ab11e51fd0d732415c863c324ebaa4da0", null ],
+    [ "getFieldCount", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a26a15875c4e6d344f3653520aa6f98a8", null ],
+    [ "getHeight", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a5112b67d1bafefb6fb0ccab25cb36086", null ],
+    [ "getInventoryStackLimit", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a910aaab2d1dc8f4c8a345e5319e65b13", null ],
+    [ "getName", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a69816e9bcc9792c6c00d63728d7920bc", null ],
+    [ "getSizeInventory", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a9368bb15274cdae0060ff465eea67d4f", null ],
+    [ "getStackInRowAndColumn", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#ab228de30d781f0c7b68060c984cb83da", null ],
+    [ "getStackInSlot", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#abfe5ceac686bbbaf31754a56a0a1036c", null ],
+    [ "getWidth", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a72ce1d20ae8bdb09bf54b0211588135f", null ],
+    [ "hasCustomName", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a9bb084d9c3241efb6f812fbea1ad5a15", null ],
+    [ "isItemValidForSlot", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a2351efc7a0624829204bffe1c3ffc314", null ],
+    [ "isUsableByPlayer", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#abc28ea2754c88568dbb3d445d61d3aa6", null ],
+    [ "markDirty", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a2ca2fd6bad4d901918581cc079e65293", null ],
+    [ "openInventory", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#a13d9f9a06016a0e9751070d3ce7cc1c2", null ],
+    [ "removeStackFromSlot", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#aef6f3f4d2ea752669597cae935ac42ba", null ],
+    [ "setField", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#af8dbe5d90afc78faf7ca9e4a18c2df8b", null ],
+    [ "setInventorySlotContents", "classnet_1_1minecraft_1_1inventory_1_1_inventory_crafting.html#ade24a2946bdaf53510e19f91fdf53e71", null ]
+];

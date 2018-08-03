@@ -1,0 +1,26 @@
+var classnet_1_1minecraft_1_1block_1_1_block_skull =
+[
+    [ "BlockSkull", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a0b92291aac1a7c5d474122b046f481c0", null ],
+    [ "breakBlock", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#ac9ff866eff31eb4fe50d63422a8a5652", null ],
+    [ "canDispenserPlace", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a4a70e4043796ec502a21c1524939b7b0", null ],
+    [ "checkWitherSpawn", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a6930abc44b6b2d0d9b8e3f395259da6a", null ],
+    [ "createBlockState", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a95ff5df5158ac72d06481f6292aeb19b", null ],
+    [ "createNewTileEntity", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a5e469b17ce1c77fa6e828b13d11e0a86", null ],
+    [ "dropBlockAsItemWithChance", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a3043e655a1059db200e473c546b3dcce", null ],
+    [ "func_190946_v", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#af7c62e26649918782d3049e162ba93a2", null ],
+    [ "func_193383_a", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#ae851e4e56fe695ab89468a8e60d201c7", null ],
+    [ "getBoundingBox", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#af43c9a0aa58682f84c6e8174f29d5d4f", null ],
+    [ "getItem", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#ac4238979026e7d214892a8ce0b0adf2b", null ],
+    [ "getItemDropped", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a34032a0ec25560484742b91a2cf46f46", null ],
+    [ "getLocalizedName", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a1ae106021c0ed44efa78451835f796c1", null ],
+    [ "getMetaFromState", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#ade3e1d5d1dfd9127dafda62ddd2935fd", null ],
+    [ "getStateFromMeta", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a6295df7c30de1109177ba399137619dd", null ],
+    [ "getWitherBasePattern", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a70ab9005bfa2c60569d6c8ae8cdc2ac5", null ],
+    [ "getWitherPattern", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#ae408faace3a5bc1e10dbea56793eed43", null ],
+    [ "isFullCube", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a471ff96f55eb6505c54b439fc38a8441", null ],
+    [ "isOpaqueCube", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a2e1b653d2b1a84e07eb9449e50e8cea3", null ],
+    [ "onBlockHarvested", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a9914a56c6aea241812ad2176dc4ddff8", null ],
+    [ "onBlockPlaced", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#a11712db14ab28340309a47710c200840", null ],
+    [ "withMirror", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#ad474b08f04d3557b18343769335b965c", null ],
+    [ "withRotation", "classnet_1_1minecraft_1_1block_1_1_block_skull.html#aae361b66e7567d0b4a9c24982c6bdcd6", null ]
+];

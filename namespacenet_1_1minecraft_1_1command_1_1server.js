@@ -1,0 +1,28 @@
+var namespacenet_1_1minecraft_1_1command_1_1server =
+[
+    [ "CommandBanIp", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_ban_ip.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_ban_ip" ],
+    [ "CommandBanPlayer", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_ban_player.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_ban_player" ],
+    [ "CommandBroadcast", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_broadcast.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_broadcast" ],
+    [ "CommandDeOp", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_de_op.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_de_op" ],
+    [ "CommandEmote", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_emote.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_emote" ],
+    [ "CommandListBans", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_list_bans.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_list_bans" ],
+    [ "CommandListPlayers", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_list_players.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_list_players" ],
+    [ "CommandMessage", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_message.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_message" ],
+    [ "CommandMessageRaw", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_message_raw.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_message_raw" ],
+    [ "CommandOp", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_op.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_op" ],
+    [ "CommandPardonIp", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_pardon_ip.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_pardon_ip" ],
+    [ "CommandPardonPlayer", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_pardon_player.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_pardon_player" ],
+    [ "CommandPublishLocalServer", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_publish_local_server.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_publish_local_server" ],
+    [ "CommandSaveAll", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_save_all.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_save_all" ],
+    [ "CommandSaveOff", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_save_off.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_save_off" ],
+    [ "CommandSaveOn", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_save_on.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_save_on" ],
+    [ "CommandScoreboard", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_scoreboard.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_scoreboard" ],
+    [ "CommandSetBlock", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_set_block.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_set_block" ],
+    [ "CommandSetDefaultSpawnpoint", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_set_default_spawnpoint.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_set_default_spawnpoint" ],
+    [ "CommandStop", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_stop.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_stop" ],
+    [ "CommandSummon", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_summon.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_summon" ],
+    [ "CommandTeleport", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_teleport.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_teleport" ],
+    [ "CommandTestFor", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_test_for.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_test_for" ],
+    [ "CommandTestForBlock", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_test_for_block.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_test_for_block" ],
+    [ "CommandWhitelist", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_whitelist.html", "classnet_1_1minecraft_1_1command_1_1server_1_1_command_whitelist" ]
+];

@@ -1,0 +1,6 @@
+var namespacenet_1_1minecraft_1_1client_1_1gui_1_1spectator_1_1categories =
+[
+    [ "SpectatorDetails", "classnet_1_1minecraft_1_1client_1_1gui_1_1spectator_1_1categories_1_1_spectator_details.html", "classnet_1_1minecraft_1_1client_1_1gui_1_1spectator_1_1categories_1_1_spectator_details" ],
+    [ "TeleportToPlayer", "classnet_1_1minecraft_1_1client_1_1gui_1_1spectator_1_1categories_1_1_teleport_to_player.html", "classnet_1_1minecraft_1_1client_1_1gui_1_1spectator_1_1categories_1_1_teleport_to_player" ],
+    [ "TeleportToTeam", "classnet_1_1minecraft_1_1client_1_1gui_1_1spectator_1_1categories_1_1_teleport_to_team.html", "classnet_1_1minecraft_1_1client_1_1gui_1_1spectator_1_1categories_1_1_teleport_to_team" ]
+];

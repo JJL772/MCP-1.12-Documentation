@@ -1,0 +1,25 @@
+var enumnet_1_1minecraft_1_1util_1_1_enum_facing =
+[
+    [ "getAxis", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a0f601d04be9ab9bc9f33655cad29f404", null ],
+    [ "getAxisDirection", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#abc612c761e22de353916ffe047f79473", null ],
+    [ "getDirectionVec", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a1389c7bdd86eb86fd7b12a5ef367f72d", null ],
+    [ "getFrontOffsetX", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a718e5738ac2e900ab071efdfd7039d90", null ],
+    [ "getFrontOffsetY", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a78599868b4a3c41be50525d9f4a7214e", null ],
+    [ "getFrontOffsetZ", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#aa4720747f0e890aff988b5cf7cc5a42d", null ],
+    [ "getHorizontalAngle", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a9bff0034543d72d4a98dd516e97c0b29", null ],
+    [ "getHorizontalIndex", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a175e7f0bc110841887b1ee5a6f5d0775", null ],
+    [ "getIndex", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a7d510be8cff5e04b14fdd660f5b73178", null ],
+    [ "getName", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a7dd664bd11051215440d249151334ac8", null ],
+    [ "getName2", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a3ff7c6b2a058d9a6490cab047d925cb8", null ],
+    [ "getOpposite", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#adf76fe123072eba96278ef2ab4251a86", null ],
+    [ "rotateAround", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#acb7c2b37cf01f9371c00b0a1d804b4a3", null ],
+    [ "rotateY", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a0c12e840e16e9c228efea51f84aa2f3a", null ],
+    [ "rotateYCCW", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#aea30217cd6d4320ec2adb69a68b05c75", null ],
+    [ "toString", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a5a44ab8f7317fc7565e0dda8cd7ac7bf", null ],
+    [ "DOWN", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a1200ce4f465322df84bf294c30d0e8a5", null ],
+    [ "EAST", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a0801a186d1976596d8880e81c3d6a3e4", null ],
+    [ "NORTH", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a1ca05a7b401036bacc3d469b81b5127f", null ],
+    [ "SOUTH", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a064052063e7f9bb5034e4453a29122fc", null ],
+    [ "UP", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#aa110ef8bf054d7e55a8335a23f770255", null ],
+    [ "WEST", "enumnet_1_1minecraft_1_1util_1_1_enum_facing.html#a6415c97d2bd30dd399428f4c9e116884", null ]
+];

@@ -1,0 +1,26 @@
+var classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable =
+[
+    [ "EntityTameable", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#a23caab95701502663971489a0f4e500c", null ],
+    [ "canBeLeashedTo", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#a033772901173a0bf70d6f2277129d86d", null ],
+    [ "entityInit", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#a29db9a75a2acd81491dd6840c0159880", null ],
+    [ "func_193101_c", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#a47e58d43aee43b02d63e465865b70244", null ],
+    [ "getAISit", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#ac479b852b738c81dfffef208450deda6", null ],
+    [ "getOwner", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#a3446b6d268d2301d76952de932dba8e6", null ],
+    [ "getOwnerId", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#ac4e7f0252f6377af2670323bd7a6bca7", null ],
+    [ "getTeam", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#ab6cb0046841a8f63b5b4adc0aed21152", null ],
+    [ "handleStatusUpdate", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#a976b87a52e0f5606879d27ef968471c7", null ],
+    [ "isOnSameTeam", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#a1ac59471fa7a956551ddbeb1805ff0e4", null ],
+    [ "isOwner", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#acce348bd6704972fbf8235a832412776", null ],
+    [ "isSitting", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#ae605869094782f594ade1293a9bfd5db", null ],
+    [ "isTamed", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#ac90208a227275df7b968e7a8421d6ad5", null ],
+    [ "onDeath", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#a8ddc97413530d95990b6c14842248800", null ],
+    [ "playTameEffect", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#ad1edf89fce6317a32b6cfeff9c5be1e2", null ],
+    [ "readEntityFromNBT", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#a5ca0201f5d7ef077adab07debbd42fdb", null ],
+    [ "setOwnerId", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#a5fd773176142f4d4a40148604c2c8713", null ],
+    [ "setSitting", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#a93d5f47e310b0afb007436db8181dd30", null ],
+    [ "setTamed", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#a4d5a0396e4a7a2cf4f857392366b2b22", null ],
+    [ "setupTamedAI", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#ae8b090106db31227c36ac1b91a4a53d2", null ],
+    [ "shouldAttackEntity", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#ae8e6fcf565211d9d86bd032168964ddf", null ],
+    [ "writeEntityToNBT", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#a035c57e1e2cc88e12abfe09694312361", null ],
+    [ "aiSit", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_tameable.html#abee712974a71d408d8c4a02280001baf", null ]
+];

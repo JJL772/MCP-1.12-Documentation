@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['jacket',['JACKET',['../enumnet_1_1minecraft_1_1entity_1_1player_1_1_enum_player_model_parts.html#ac7b1bfceb0ddfe2c29a8f1dee94b2b7f',1,'net::minecraft::entity::player::EnumPlayerModelParts']]],
+  ['jukebox',['JUKEBOX',['../classnet_1_1minecraft_1_1init_1_1_blocks.html#ab4154680a2e8d4e165cde02a2eac6572',1,'net::minecraft::init::Blocks']]],
+  ['jump',['JUMP',['../classnet_1_1minecraft_1_1stats_1_1_stat_list.html#ad8e403e4a9d5239fac98776ac1bdf28b',1,'net.minecraft.stats.StatList.JUMP()'],['../classnet_1_1minecraft_1_1util_1_1_movement_input.html#a28509e82c6ec6d9edfb9061d05af65a3',1,'net.minecraft.util.MovementInput.jump()']]],
+  ['jump_5fboost',['JUMP_BOOST',['../classnet_1_1minecraft_1_1init_1_1_mob_effects.html#a6973ce1c485bed44a281e1e2e0c861fe',1,'net::minecraft::init::MobEffects']]],
+  ['jump_5fstrength',['JUMP_STRENGTH',['../classnet_1_1minecraft_1_1entity_1_1passive_1_1_abstract_horse.html#a0c8408aa89ff8e2a8fcb5880eb45e725',1,'net::minecraft::entity::passive::AbstractHorse']]],
+  ['jumphelper',['jumpHelper',['../classnet_1_1minecraft_1_1entity_1_1_entity_living.html#ad81805d373fff1173d54cca7007e42c1',1,'net::minecraft::entity::EntityLiving']]],
+  ['jumpmovementfactor',['jumpMovementFactor',['../classnet_1_1minecraft_1_1entity_1_1_entity_living_base.html#abab7ff3ad18cf588d69a72833951aee4',1,'net::minecraft::entity::EntityLivingBase']]],
+  ['jumppower',['jumpPower',['../classnet_1_1minecraft_1_1entity_1_1passive_1_1_abstract_horse.html#a596836c97eec949fa0f73748a57d78db',1,'net::minecraft::entity::passive::AbstractHorse']]],
+  ['jungle',['JUNGLE',['../classnet_1_1minecraft_1_1init_1_1_biomes.html#a9407ff5bfcf6c7514b2cc8441dc6d179',1,'net::minecraft::init::Biomes']]],
+  ['jungle_5fboat',['JUNGLE_BOAT',['../classnet_1_1minecraft_1_1init_1_1_items.html#a885c792d35b7800b2237593f67f08074',1,'net::minecraft::init::Items']]],
+  ['jungle_5fdoor',['JUNGLE_DOOR',['../classnet_1_1minecraft_1_1init_1_1_blocks.html#adb1e042955f666da72d64e5ac1b3e7e3',1,'net.minecraft.init.Blocks.JUNGLE_DOOR()'],['../classnet_1_1minecraft_1_1init_1_1_items.html#a0b6a12f5375a64ef0cfefc1aa7e9771d',1,'net.minecraft.init.Items.JUNGLE_DOOR()']]],
+  ['jungle_5fedge',['JUNGLE_EDGE',['../classnet_1_1minecraft_1_1init_1_1_biomes.html#af8ee016a33724000a7b302f3adca470f',1,'net::minecraft::init::Biomes']]],
+  ['jungle_5ffence',['JUNGLE_FENCE',['../classnet_1_1minecraft_1_1init_1_1_blocks.html#a27b6518c4d7a2e5c6bccb966b662cc79',1,'net::minecraft::init::Blocks']]],
+  ['jungle_5ffence_5fgate',['JUNGLE_FENCE_GATE',['../classnet_1_1minecraft_1_1init_1_1_blocks.html#aa345533c4cf87d1445eb17f073d435f3',1,'net::minecraft::init::Blocks']]],
+  ['jungle_5fhills',['JUNGLE_HILLS',['../classnet_1_1minecraft_1_1init_1_1_biomes.html#a20d53db88dc50d34bcfc7b901586d5ab',1,'net::minecraft::init::Biomes']]],
+  ['jungle_5fstairs',['JUNGLE_STAIRS',['../classnet_1_1minecraft_1_1init_1_1_blocks.html#ae91fef5d47515df608a98a994b81362d',1,'net::minecraft::init::Blocks']]]
+];

@@ -1,0 +1,28 @@
+var classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk =
+[
+    [ "RenderChunk", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a09c182901ea98328b9f30f8c99bee8dc", null ],
+    [ "clearNeedsUpdate", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a9cb3be478fe7c2c024f27cbb7e6ea06e", null ],
+    [ "deleteGlResources", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a48ef4c2a69fbdb218a38bd782b94f964", null ],
+    [ "finishCompileTask", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#af4dda98a42150b01ebd84f5170638789", null ],
+    [ "getBlockPosOffset16", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#aa301aaa8d3d114fca32a6a70912cd07c", null ],
+    [ "getCompiledChunk", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a79f02e7746c6900002221f63cd0fad0d", null ],
+    [ "getDistanceSq", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a758126d65c718a3eb763127086033273", null ],
+    [ "getLockCompileTask", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#ac341abcbfbe5172aeef3c9d8539a12f9", null ],
+    [ "getPosition", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#ad616b395402056d91dafd987a06f51c8", null ],
+    [ "getVertexBufferByLayer", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a46ea2ef13b43ba76e8839fdd243aff27", null ],
+    [ "getWorld", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#afa596e1198a1cd1731779b429947295f", null ],
+    [ "isNeedsUpdate", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#af5cdb3002faf197a061c40e6c0b83f24", null ],
+    [ "isNeedsUpdateCustom", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a284f77d33ef7b01de0f36fee25ab8d01", null ],
+    [ "makeCompileTaskChunk", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a3d141c23edb042cbf7204b8f65430ffd", null ],
+    [ "makeCompileTaskTransparency", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#ab5d537b592d85dd55e8fe741fd127b39", null ],
+    [ "multModelviewMatrix", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a9bbbc85d6b85d2bdb773e9c210e957b0", null ],
+    [ "rebuildChunk", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a8810de14bbfe32937478b2be76fc4e0d", null ],
+    [ "resortTransparency", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#afab10a48608147722ceb972470b68cc4", null ],
+    [ "setCompiledChunk", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a8168e03109d0344e412eaceaef82e2ed", null ],
+    [ "setFrameIndex", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a83ef90aecbb1199eea239c83da346d7c", null ],
+    [ "setNeedsUpdate", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a67253a8e2c08d363f987e111012646d3", null ],
+    [ "setPosition", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#aff58bf3e4498b2b28d172fec2511ec1d", null ],
+    [ "stopCompileTask", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a4877ad81518e96bd6dec75319a98e7f0", null ],
+    [ "boundingBox", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#aadd2662b4bc071fb1a3e290e5dff6710", null ],
+    [ "compiledChunk", "classnet_1_1minecraft_1_1client_1_1renderer_1_1chunk_1_1_render_chunk.html#a7d252fab38395d9e390f990898e0a000", null ]
+];

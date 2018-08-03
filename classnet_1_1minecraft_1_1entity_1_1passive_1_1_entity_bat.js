@@ -1,0 +1,28 @@
+var classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat =
+[
+    [ "EntityBat", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#ac099c07f994f48f5a428fa2801548f1b", null ],
+    [ "applyEntityAttributes", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a6644bd5cd85e86536b571839632378c2", null ],
+    [ "attackEntityFrom", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a2f42886df48f77d8148d4630b1b67205", null ],
+    [ "canBePushed", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#abc1d88194ecfa105b8ca689f1376dbed", null ],
+    [ "canTriggerWalking", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#ad542480a4ea8c60935309c3469bf3d5e", null ],
+    [ "collideWithEntity", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a7e85328da443c09cf75d03f529a51491", null ],
+    [ "collideWithNearbyEntities", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#aded7fb024a262f1bfb2a7af51dbe37af", null ],
+    [ "doesEntityNotTriggerPressurePlate", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a89d80d24ffa085ba11364ed739f65780", null ],
+    [ "entityInit", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#aaa5a12571c2e8c727949fe941149e30d", null ],
+    [ "fall", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a5a7a014784f423be431b40b8cc6cd0f3", null ],
+    [ "getAmbientSound", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a1be33444a673fcc188c47fecad0d7a78", null ],
+    [ "getCanSpawnHere", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a3851869ba0c740fbab0288482e5ee60f", null ],
+    [ "getDeathSound", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a1b354ed60794cff995a99477e10bdf5b", null ],
+    [ "getEyeHeight", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#ac4d3da4f5467af998ac2f6134f9d12e7", null ],
+    [ "getHurtSound", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a088db48c918a9bfd41f1ce010d741e74", null ],
+    [ "getIsBatHanging", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#ad29acf5512744e9737692c5bbac1b5b3", null ],
+    [ "getLootTable", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a1a75aa88f690917e11a765d4a8a35b1a", null ],
+    [ "getSoundPitch", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#ac9f18dfc0c007cc739858932cc5c689a", null ],
+    [ "getSoundVolume", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a34bfa7883c84ea17791e55b668111d86", null ],
+    [ "onUpdate", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#ab2d956c36a0daf46f12a80e776b67562", null ],
+    [ "readEntityFromNBT", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a03f12c91c349c87ed424ccf15f9b6ce6", null ],
+    [ "setIsBatHanging", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a226574ec3e805aa935059e35c89cd307", null ],
+    [ "updateAITasks", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a754eea85097a52385986ffc29e0bb4bf", null ],
+    [ "updateFallState", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a0851d5521e825345cd7d073199081098", null ],
+    [ "writeEntityToNBT", "classnet_1_1minecraft_1_1entity_1_1passive_1_1_entity_bat.html#a1af06ddaa1bf132ffa062695ecfc8571", null ]
+];

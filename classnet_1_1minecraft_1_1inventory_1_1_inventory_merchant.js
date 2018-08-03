@@ -1,0 +1,26 @@
+var classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant =
+[
+    [ "InventoryMerchant", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a96377291f7a628c4027a1c5c448b2a54", null ],
+    [ "clear", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a8a0e2a247276efa34060ab6bc09d8107", null ],
+    [ "closeInventory", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a58d16d24dd03823c4f256c372bf8c1d9", null ],
+    [ "decrStackSize", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a8052561b25276b24136ef4211f119733", null ],
+    [ "func_191420_l", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a3b1d3450bc136b1d5b14cf9f0434362d", null ],
+    [ "getCurrentRecipe", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a9b316a0980e9406091eb9fed8080b4fe", null ],
+    [ "getDisplayName", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#ad97af88d959918cc14bac522ef7d9372", null ],
+    [ "getField", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a50bc845a87d7d1e90577c04e66138124", null ],
+    [ "getFieldCount", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a8d252e0cf719fd3887ba7c92e84da1d6", null ],
+    [ "getInventoryStackLimit", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a482c08bf7f39a9c1017b411b2cfd8227", null ],
+    [ "getName", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#ab86bdd72a7c4bb4d905b25e523a5f859", null ],
+    [ "getSizeInventory", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a9dcf555e8dad8a949e2cc49c2ff120de", null ],
+    [ "getStackInSlot", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a27041a9d440415c2d62ad644bcfcb2b6", null ],
+    [ "hasCustomName", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a5fca4f833691e689ad17a6c958917e64", null ],
+    [ "isItemValidForSlot", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#aceca66e57397ef8cdac6ca9fedac6a74", null ],
+    [ "isUsableByPlayer", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a70efe0d2f5cbe01138210c9a453fb654", null ],
+    [ "markDirty", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a63071bf3eb313677f8b9e21ef85c51e2", null ],
+    [ "openInventory", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a80df9f1746eef6f45bc042f72281fa3b", null ],
+    [ "removeStackFromSlot", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a7bbb4368e15ae37ef888fa96dacbd399", null ],
+    [ "resetRecipeAndSlots", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a1d87685d8ea767fa5ee5e47cd083e1f4", null ],
+    [ "setCurrentRecipeIndex", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#a5fefd3f4953d05a335dc39c9a5a60be9", null ],
+    [ "setField", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#ad5722ebde3bb9000b3ea9f37912af839", null ],
+    [ "setInventorySlotContents", "classnet_1_1minecraft_1_1inventory_1_1_inventory_merchant.html#ac8b174767f811ecb50d53be25f17fa30", null ]
+];

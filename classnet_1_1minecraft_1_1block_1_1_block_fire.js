@@ -1,0 +1,26 @@
+var classnet_1_1minecraft_1_1block_1_1_block_fire =
+[
+    [ "BlockFire", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#ae1ee4758c4c0e34b981dd499b9ab4b8d", null ],
+    [ "canCatchFire", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#acd5da47d6172284e102f6bfa90413db1", null ],
+    [ "canDie", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#a420d48f972164a987147daa53e8a6346", null ],
+    [ "canPlaceBlockAt", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#a28a583fc98c5f949426188d79c7f9d8a", null ],
+    [ "createBlockState", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#a5c656a16da7e665a869b129dba0347bf", null ],
+    [ "func_193383_a", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#a2bf9eafee7c9014479c2563d07576f29", null ],
+    [ "getActualState", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#a0f4942c86c8e3c9a70e3e0c3321f9043", null ],
+    [ "getBlockLayer", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#af8ea84f513fb0ad621682f136eac71aa", null ],
+    [ "getCollisionBoundingBox", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#a1c232363b3fe04e485736f813aa5efe8", null ],
+    [ "getMapColor", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#a2bbe80711c5286ef1b08302cb3bc54a9", null ],
+    [ "getMetaFromState", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#afbacfc57c24b2366e5e70064aa3b4a7f", null ],
+    [ "getStateFromMeta", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#acbe015cf1d87101311b3d7ae67ba618d", null ],
+    [ "isCollidable", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#afe04e33b82ddd55313a942ec85e158b8", null ],
+    [ "isFullCube", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#a9fa1098bea103002886663804af106f3", null ],
+    [ "isOpaqueCube", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#aef105e9f07db77a058f8d3e562bee7c0", null ],
+    [ "neighborChanged", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#af32544db3d904234102b2240d38fd96d", null ],
+    [ "onBlockAdded", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#a52cad1421f5e0fae4295b22ac82068b2", null ],
+    [ "quantityDropped", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#a668595e7585bd431a6336182ac37d2b6", null ],
+    [ "randomDisplayTick", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#ab299b246063c85fe8d99ac97385917f6", null ],
+    [ "requiresUpdates", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#a26b8e36f2be84819cb7d43563132770a", null ],
+    [ "setFireInfo", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#a4602bb085dc3a1513f62c3871692f18c", null ],
+    [ "tickRate", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#aaca54f9f9f59fc159f91453eca15222b", null ],
+    [ "updateTick", "classnet_1_1minecraft_1_1block_1_1_block_fire.html#a84e28b6bc0aa1a9eae7b5d2873f5aa61", null ]
+];

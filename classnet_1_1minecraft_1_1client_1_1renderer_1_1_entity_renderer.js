@@ -1,0 +1,25 @@
+var classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer =
+[
+    [ "EntityRenderer", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#ad32e0b794fff7a4ad3f2f25966da17d7", null ],
+    [ "disableLightmap", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#a96c45c1919924b5e51d2ed60db1b0571", null ],
+    [ "enableLightmap", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#a1207d500c061de4ee57b04129505677c", null ],
+    [ "func_190564_k", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#a98e3aa03d5b2e8e2f055bd25bc55b81d", null ],
+    [ "func_190565_a", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#af6195da81c7b6311d317832b4ebafffd", null ],
+    [ "func_191514_d", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#a49aee4a64c3ef4d84f822ffb21fbf1f1", null ],
+    [ "getMapItemRenderer", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#a5165d6c7e8105ebd22f9414661de9513", null ],
+    [ "getMouseOver", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#a65ffd6edfb3c4d4776812c2e567eac39", null ],
+    [ "getShaderGroup", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#a3b3156eecb68bfa00260da2747005248", null ],
+    [ "isShaderActive", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#a0cbef53b8eebf7d68dd9cd892531a636", null ],
+    [ "loadEntityShader", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#ab100f54288edf131d1f41b5e614f14bd", null ],
+    [ "onResourceManagerReload", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#af96a33f3dfb09761556c7b19a639285f", null ],
+    [ "renderRainSnow", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#a26ecdacd82892fada681ddd593f8e2d5", null ],
+    [ "renderStreamIndicator", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#a4bcd32f453bc73dacef492cc5163f06b", null ],
+    [ "renderWorld", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#ac921ab512d268aa00b4f8fc2610b2f2e", null ],
+    [ "setupOverlayRendering", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#ad96c3674affc948f71c755bdd8e13f51", null ],
+    [ "stopUseShader", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#aaa6818fc0e50f9d0fa8acc274d8632f5", null ],
+    [ "switchUseShader", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#a63a9b99726712c1ef7628f5f50122cf3", null ],
+    [ "updateCameraAndRender", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#aa44f65459e61d9bd4c980b068013fc2f", null ],
+    [ "updateRenderer", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#ad3c72be9a3f73f444c9772c5cc8bf463", null ],
+    [ "updateShaderGroupSize", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#a3de8f74033fe95bd91912deaa571b76e", null ],
+    [ "itemRenderer", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_entity_renderer.html#a1f3080fc7a6dc10f9cd449d2fe994aef", null ]
+];

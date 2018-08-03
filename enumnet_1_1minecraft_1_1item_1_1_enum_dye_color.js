@@ -1,0 +1,27 @@
+var enumnet_1_1minecraft_1_1item_1_1_enum_dye_color =
+[
+    [ "func_192396_c", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#af93241910531fbda5e40adc875414081", null ],
+    [ "func_193349_f", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#af3e5fe1db76659e225d0120bb32e6a6e", null ],
+    [ "func_193350_e", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#aef4fe2f7ffac7c672f1dfda0c009c7e9", null ],
+    [ "getDyeDamage", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a7ab79606f08a73eb3aee41165a215aad", null ],
+    [ "getMetadata", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#ae6762153d3c463336ab426980066e973", null ],
+    [ "getName", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#ae6f448c11bc1c84a9096a11a92773631", null ],
+    [ "getUnlocalizedName", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a8ab64568b946d576fd5463c9c92cc5f7", null ],
+    [ "toString", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a3ad1aafeba11ccb8afa9f6996500a51e", null ],
+    [ "BLACK", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a052e753a1a85f45ef391f979d4eeff1d", null ],
+    [ "BLUE", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a5329e3151a4e2f412ccf9929bd3fd593", null ],
+    [ "BROWN", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a449dced0d5e3b415c109ec04a9177cd0", null ],
+    [ "CYAN", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a700d01edfc5e2f554a7504027d0349ca", null ],
+    [ "GRAY", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a58b755ca2b258eff58071a0e0f0d7771", null ],
+    [ "GREEN", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a23e8134471c35bd401a04dde26fdf1e3", null ],
+    [ "LIGHT_BLUE", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#af0c297f39312c46aa0d90e047a622c6d", null ],
+    [ "LIME", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a26a7ddbbf4412f4c3bfa96ca30d0d10a", null ],
+    [ "MAGENTA", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#abfc1f390160c27ba7576b157b2689ad4", null ],
+    [ "ORANGE", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a7703ea8231004cb6142cc950bc509886", null ],
+    [ "PINK", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a130efb59d91235c1c3186e5c40ebec3e", null ],
+    [ "PURPLE", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a980707c6615c6dfe60773282a81662e6", null ],
+    [ "RED", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#abfe431c421d4ed71f8a75969d3f2cec8", null ],
+    [ "SILVER", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#a40d11c36f9a1e8bdf7a39a80249ac5b7", null ],
+    [ "WHITE", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#aff7ba81ce2e8a00a73a4242906043b4a", null ],
+    [ "YELLOW", "enumnet_1_1minecraft_1_1item_1_1_enum_dye_color.html#af807658fd55ccb73b294dd9f02f4df88", null ]
+];

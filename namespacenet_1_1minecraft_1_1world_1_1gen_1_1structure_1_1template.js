@@ -1,0 +1,8 @@
+var namespacenet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1template =
+[
+    [ "BlockRotationProcessor", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1template_1_1_block_rotation_processor.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1template_1_1_block_rotation_processor" ],
+    [ "ITemplateProcessor", "interfacenet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1template_1_1_i_template_processor.html", "interfacenet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1template_1_1_i_template_processor" ],
+    [ "PlacementSettings", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1template_1_1_placement_settings.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1template_1_1_placement_settings" ],
+    [ "Template", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1template_1_1_template.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1template_1_1_template" ],
+    [ "TemplateManager", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1template_1_1_template_manager.html", "classnet_1_1minecraft_1_1world_1_1gen_1_1structure_1_1template_1_1_template_manager" ]
+];

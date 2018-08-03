@@ -1,0 +1,4 @@
+var interfacenet_1_1minecraft_1_1client_1_1renderer_1_1debug_1_1_debug_renderer_1_1_i_debug_renderer =
+[
+    [ "render", "interfacenet_1_1minecraft_1_1client_1_1renderer_1_1debug_1_1_debug_renderer_1_1_i_debug_renderer.html#ab44ff6a5d4e1303c8cc54a41f092ab9b", null ]
+];

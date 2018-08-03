@@ -1,0 +1,26 @@
+var classnet_1_1minecraft_1_1block_1_1_block_crops =
+[
+    [ "BlockCrops", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#a4fb55aece7c78f735ab2cd0c1b6be693", null ],
+    [ "canBlockStay", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#ae7854a1aef8fae7c4be65fce4fce8931", null ],
+    [ "canGrow", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#aa9bb88279b03fe1652d0cdb2b0a0d819", null ],
+    [ "canSustainBush", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#abfa6b26f16d6ee73959ba3c168dd6c3b", null ],
+    [ "canUseBonemeal", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#ae89897025d68bc74ef87892cb3d4169b", null ],
+    [ "createBlockState", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#abbf674f09a6deaff6421ecde9eb91208", null ],
+    [ "dropBlockAsItemWithChance", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#afa8285b79ec0625629e03a9403dca7ef", null ],
+    [ "getAge", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#a9d7ca6c6a7af4c68a3dce0ee286547e4", null ],
+    [ "getAgeProperty", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#acb84c2e57881c5e26f3347ca7806cb30", null ],
+    [ "getBonemealAgeIncrease", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#a0dde665855debd8bb820c556e5e29dee", null ],
+    [ "getBoundingBox", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#a99e34069cbdb125375cc588116dd6d3f", null ],
+    [ "getCrop", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#aebac1a41aacac65a69667dcb4122d030", null ],
+    [ "getItem", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#a3aa8603b3a9b76b9260ebea2e58147ba", null ],
+    [ "getItemDropped", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#a7eb58134636a254aa9e55f978b6c0aab", null ],
+    [ "getMaxAge", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#a0d8eeacccff91627e945428d29e09906", null ],
+    [ "getMetaFromState", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#ae89187ce20281cdc64e9992f97733f1a", null ],
+    [ "getSeed", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#a785251a2b780679e8a91619b19738966", null ],
+    [ "getStateFromMeta", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#a7e1178e68258db8422960eaa217dc747", null ],
+    [ "grow", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#a1d6bfd33b7ea7dfe00fe717db566d29c", null ],
+    [ "grow", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#aba366ad29768369dad8a2996b6570653", null ],
+    [ "isMaxAge", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#ab2a3675b1f04f009027a1f04972498a9", null ],
+    [ "updateTick", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#a2deded7345b8c590a9664e403b46c7e2", null ],
+    [ "withAge", "classnet_1_1minecraft_1_1block_1_1_block_crops.html#a4202bc9134e32c6dcda0bb3da504b680", null ]
+];

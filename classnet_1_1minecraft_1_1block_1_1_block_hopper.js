@@ -1,0 +1,27 @@
+var classnet_1_1minecraft_1_1block_1_1_block_hopper =
+[
+    [ "BlockHopper", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#ad8cc4e04980bf7688de841d348ec17fe", null ],
+    [ "addCollisionBoxToList", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a184edc94df50aafb09c44cbe13805bdc", null ],
+    [ "breakBlock", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a87be2c4ddf01fa4a91cded4b51bb6317", null ],
+    [ "createBlockState", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a3647bf59e7bbd8d3069a1c185581dc28", null ],
+    [ "createNewTileEntity", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#aacebd795d34dfa3bdde6402981d7fa86", null ],
+    [ "func_193383_a", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#ad3cd838170c7cc0b99fa65329fd69007", null ],
+    [ "getBlockLayer", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#af52871a974e2460033f2011ed0a9a6a4", null ],
+    [ "getBoundingBox", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a2e7c54a6cde1f0cf933d7336a8b9315a", null ],
+    [ "getComparatorInputOverride", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a1558592098b33969b882757481badf52", null ],
+    [ "getMetaFromState", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a3cdc4c6c29ececc49caf5d4e608581d0", null ],
+    [ "getRenderType", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#ac7186135364cafd83d438e85abe349b8", null ],
+    [ "getStateFromMeta", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a07edffa548aa6c68e92db60d7882ed63", null ],
+    [ "hasComparatorInputOverride", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#ab566987776bde8be8ec502ff3f81893e", null ],
+    [ "isFullCube", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a61ebed3ae20e9cbd2e9d223ffd5dc4a6", null ],
+    [ "isFullyOpaque", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a696ac738cd657779126cfecd3babe6b2", null ],
+    [ "isOpaqueCube", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a8a1f6a04a7af5a6fca744780bb98459d", null ],
+    [ "neighborChanged", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#adc13695a3f1c090b60940967b3781eb8", null ],
+    [ "onBlockActivated", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a952fc46ca99c7f9b941fc83db9169388", null ],
+    [ "onBlockAdded", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a6c0bc9fe1cea949f0d77654e25452de3", null ],
+    [ "onBlockPlaced", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#abb40036d7b5c124efd52d238e7c72f70", null ],
+    [ "onBlockPlacedBy", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#af3ab0898ab3ce6ab14d7f9402c13f0fe", null ],
+    [ "shouldSideBeRendered", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#abbd0eb3e52cb917bc77c524f36f5b4cc", null ],
+    [ "withMirror", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a98f42e31f73e50fb5d6963668873e73b", null ],
+    [ "withRotation", "classnet_1_1minecraft_1_1block_1_1_block_hopper.html#a6bb1654a6d63f1a4705db4db0b615a99", null ]
+];
